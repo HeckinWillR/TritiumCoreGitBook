@@ -6,7 +6,7 @@ coverY: 0
 
 # Introduction
 
-Tritium Core is a 2D open-world turn based and live action shooter.  Traverse a gritty retro-themed open world steeped in espionage and deceit. Fight Russian forces. Encounter the remnants of the federal government, seductive foreign spies, legendary private military units, and disturbing cults - as you race to uncover what the invaders seek
+Tritium Core is a 2D open-world turn based and live action shooter.  Traverse a gritty retro-themed open world steeped in espionage and deceit. Fight Russian forces. Encounter the remnants of the federal government, seductive foreign spies, legendary private military units, and disturbing cults - as you race to uncover what the invaders seek.
 
 ***
 
