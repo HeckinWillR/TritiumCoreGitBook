@@ -6,7 +6,7 @@ coverY: 0
 
 # Introduction
 
-Tritium Core is an open-world turn based and live action pixel art game.  Set in a retro themed alternate America during a catastrophic Russian invasion. Players traverse a sprawling 22,500 square kilometer map, fight Russian forces, and race to uncover the advanced technology the invaders seek. Encounter the fractured remnants of the federal government, seductive foreign spies, legendary private military units, and disturbing cults in a gritty world steeped in espionage and deceit.
+Tritium Core is an open-world turn based and live action pixel art game.  Set in a retro themed alternate America amid a catastrophic Russian invasion. Players traverse a sprawling 22,500 square kilometer map, fight Russian forces, and race to uncover the advanced technology the invaders seek. Encounter the fractured remnants of the federal government, seductive foreign spies, legendary private military units, and disturbing cults in a gritty world steeped in espionage and deceit.
 
 ***
 
