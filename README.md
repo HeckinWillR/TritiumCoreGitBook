@@ -2,6 +2,7 @@
 icon: file-lines
 cover: .gitbook/assets/MA_TitleASCIIAberration_1920x800.png
 coverY: 0
+layout: landing
 ---
 
 # Introduction
