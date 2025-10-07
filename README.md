@@ -31,7 +31,7 @@ Pillars:
 
 
 
-* It can be played as a tactical turn-based RPG or a live action shooter.
+* Trade Secret \*Dual Step System
 * The world state persists on character death unless explicitly reset.
 * The world features hand crafted and procedurally generated content.
 * It features real world functional equipment, firearms, firearms attachments and ammunition (and a lot of them).
